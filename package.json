@@ -1,0 +1,69 @@
+{
+  "name": "brume-frost-theme",
+  "displayName": "Brume Frost Theme",
+  "description": "A frost-tinted color palette — 6 variants, icy glass aesthetic for VS Code",
+  "version": "1.0.0",
+  "publisher": "vkeerthivikram",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vkeerthivikram/brume-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/vkeerthivikram/brume-vscode/issues"
+  },
+  "homepage": "https://vkeerthivikram.github.io/brume/",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "brume",
+    "frost",
+    "icy",
+    "dark",
+    "light",
+    "blue",
+    "cyan",
+    "mist",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brume Snow",
+        "uiTheme": "vs",
+        "path": "./themes/brume-snow.json"
+      },
+      {
+        "label": "Brume Fog",
+        "uiTheme": "vs",
+        "path": "./themes/brume-fog.json"
+      },
+      {
+        "label": "Brume Haze",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brume-haze.json"
+      },
+      {
+        "label": "Brume Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brume-dusk.json"
+      },
+      {
+        "label": "Brume Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brume-mist.json"
+      },
+      {
+        "label": "Brume Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brume-void.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+**/*.map
+.vscode/
+.gitignore
+Thumbs.db
+.DS_Store
