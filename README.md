@@ -4,8 +4,6 @@ A frost-tinted color palette — every color shifted through icy mist.
 
 Brume (French: *mist*) is an original color palette inspired by the beauty of frozen landscapes. Blue-tinted darks, icy cyan, vivid frost accents, and an icy glass aesthetic. Every color looks like it's viewed through frosted glass.
 
-![Brume Mist Preview](https://github.com/vkeerthivikram/brume-vscode/raw/main/screenshots/preview.png)
-
 ## Variants
 
 | Variant | Type | Description |
@@ -18,6 +16,18 @@ Brume (French: *mist*) is an original color palette inspired by the beauty of fr
 | **Brume Void** | Dark | Deep night, glowing accents |
 
 ## Installation
+
+### From VSIX (Manual)
+
+1. Download the latest `.vsix` file from [Releases](https://github.com/vkeerthivikram/brume-vscode/releases)
+2. Open VS Code
+3. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
+4. Type `Extensions: Install from VSIX...` and select it
+5. Choose the downloaded `.vsix` file
+6. Press `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T`) to open the theme picker
+7. Select your preferred Brume variant
+
+### From Marketplace
 
 1. Open VS Code
 2. Press `Ctrl+Shift+X` (or `Cmd+Shift+X` on Mac) to open the Extensions view
