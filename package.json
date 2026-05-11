@@ -1,8 +1,8 @@
 {
   "name": "brume-frost-theme",
   "displayName": "Brume Frost Theme",
-  "description": "A frost-tinted color palette — 6 variants, icy glass aesthetic for VS Code",
-  "version": "1.0.0",
+  "description": "A frost-tinted color palette \u00e2\u20ac\u201d 6 variants, icy glass aesthetic for VS Code",
+  "version": "1.0.1",
   "publisher": "vkvikram",
   "license": "MIT",
   "repository": {
